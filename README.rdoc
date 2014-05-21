@@ -1,28 +1,15 @@
-== README
+== VidZen
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The Ultimate Independent Movies, Web Series, Videos sharing website. The publishers not only get paid from advertisements but also through donations and payments from their viewer base. Dedicated Movie, Web Series, pages, and social networking.
 
-Things you may want to cover:
+To Set Up:
 
-* Ruby version
+* Requirement for development: MySql database
 
-* System dependencies
+* Run <tt>rake db:create</tt>
 
-* Configuration
+* Run <tt>rake db:migrate</tt>
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Add a config/database.yml file (database_skeleton.yml can be used as a skeleton)
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.

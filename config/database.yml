@@ -1,0 +1,18 @@
+development:
+  adapter: mysql
+  database: vidzen_development
+  username: root
+  password: 12345678
+  host: localhost
+test:
+  adapter: mysql
+  database: vidzen_test
+  username: root
+  password: 12345678
+  host: localhost
+production:
+  adapter: mysql
+  database: vidzen_production
+  username: root
+  password: 12345678
+  host: localhost

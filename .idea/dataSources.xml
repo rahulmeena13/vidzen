@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="515598106">
+    <data-source source="LOCAL" name="Rails vidzen: development" uuid="c8396664-e17f-4d06-afe2-1ca44e16e739">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/vidzen_development</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>df9bdf98df99df9edf9fdf9cdf9ddf92</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails vidzen: test" uuid="4ef32cb5-bede-4c16-bcf6-fae39eca9e83">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/vidzen_test</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>df9bdf98df99df9edf9fdf9cdf9ddf92</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails vidzen: production" uuid="ee569338-2ae0-4a05-913b-f753f2043254">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/vidzen_production</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>df9bdf98df99df9edf9fdf9cdf9ddf92</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
